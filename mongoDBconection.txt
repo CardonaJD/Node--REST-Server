@@ -1,0 +1,4 @@
+thunderHog
+mPVaSmtbkKYEuZA9
+
+mongodb+srv://thunderHog:mPVaSmtbkKYEuZA9@cluster0-hy0rd.azure.mongodb.net/cafe
